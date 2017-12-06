@@ -1,6 +1,3 @@
-import jdk.internal.dynalink.linker.LinkerServices;
-import sun.awt.image.ImageWatched;
-
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
